@@ -6,7 +6,7 @@ This project also serves as a **Scrum-inspired Agile product development case st
 
 ## Live Demo
 
-[View the live website](https://chinajapantravelguidewithaichat-git-main-yukiryus-projects.vercel.app/)
+[View the live website]([https://chinajapantravelguidewithaichat.vercel.app/])
 
 > The product is under active development. Some planned features and UX improvements are currently managed through the Product Backlog.
 
