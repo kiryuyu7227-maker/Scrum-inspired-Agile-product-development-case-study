@@ -146,21 +146,18 @@ The project is also connected to Zenhub for additional Agile workflow management
 
 ## Screenshots
 
+## Screenshots
+
 ### Travel Guide
-
 ![Travel Guide Screenshot](./docs/images/travel-guide.png)
-
-### Destination Gallery
-
-![Gallery Screenshot](./docs/images/gallery.png)
+![Travel Guide Screenshot](./docs/images/travel-guide-end.png)
 
 ### AI Travel Assistant
-
 ![AI Chatbot Screenshot](./docs/images/ai-chatbot.png)
 
 ### Agile Project Board
-
-![Agile Board Screenshot](./docs/images/agile-board.png)
+![Agile Board Screenshot](./docs/images/agile-project-board1.png)
+![Agile Board Screenshot](./docs/images/agile-project-board2.png)
 
 > Screenshot files will be added to the repository as the case study is developed.
 
