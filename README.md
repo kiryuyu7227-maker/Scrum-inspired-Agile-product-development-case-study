@@ -146,18 +146,20 @@ The project is also connected to Zenhub for additional Agile workflow management
 
 ## Screenshots
 
-## Screenshots
-
 ### Travel Guide
-![Travel Guide Screenshot](./docs/images/travel-guide.png)
-![Travel Guide Screenshot](./docs/images/travel-guide-end.png)
+The main travel guide experience, including destination content and supporting sections.
+
+![Travel Guide Homepage](./docs/images/travel-guide.png)
+![Travel Guide Lower Section](./docs/images/travel-guide-end.png)
 
 ### AI Travel Assistant
-![AI Chatbot Screenshot](./docs/images/ai-chatbot.png)
+![AI Travel Assistant](./docs/images/ai-chatbot.png)
 
 ### Agile Project Board
-![Agile Board Screenshot](./docs/images/agile-project-board1.png)
-![Agile Board Screenshot](./docs/images/agile-project-board2.png)
+The GitHub Project board used to manage backlog refinement, sprint planning, estimation, and delivery status.
+
+![Agile Project Board Left](./docs/images/agile-project-board1.png)
+![Agile Project Board Right](./docs/images/agile-project-board2.png)
 
 > Screenshot files will be added to the repository as the case study is developed.
 
