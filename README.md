@@ -114,31 +114,33 @@ The project is also connected to Zenhub for additional Agile workflow management
 
 ---
 
+
 ## Technology Stack
 
 ### Frontend
+- HTML5
+- CSS3
+- Responsive design with CSS media queries
+- Google Fonts
 
-* **[Framework / library — e.g. React / Next.js]**
-* **[CSS / styling approach]**
-* JavaScript / TypeScript: **[confirm]**
+### Styling
+- Custom CSS
 
 ### AI
-
-* **[AI model / API provider]**
-* AI-powered travel chatbot integration
+- Google Gemini API
+- API key created and managed through Google AI Studio
+- AI-powered travel chatbot integration
 
 ### Deployment
-
-* Vercel
+- Vercel
 
 ### Product & Delivery Management
-
-* GitHub Issues
-* GitHub Projects
-* Zenhub
-* User Stories & Acceptance Criteria
-* Relative Story Point Estimation
-* Sprint Planning
+- GitHub Issues
+- GitHub Projects
+- Zenhub
+- User Stories & Acceptance Criteria
+- Relative Story Point Estimation
+- Sprint Planning
 
 ---
 
