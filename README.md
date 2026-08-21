@@ -1,4 +1,4 @@
-# China & Japan Travel Guide with AI Assistant
+# China & Japan Travel Guide — Agile Product Development Case Study
 
 An AI-enabled travel guide designed to help travelers explore China and Japan, discover destination content, and access travel guidance through an integrated AI assistant.
 
